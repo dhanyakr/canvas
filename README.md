@@ -1,4 +1,4 @@
-# Github demo
+# Canvas demo
 
 In this exercise we will build a canvas app to play with animations and gesture recognizers..
 
